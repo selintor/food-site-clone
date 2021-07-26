@@ -1,7 +1,7 @@
 # food-site-clone
 This is my first web design project, it's only made with HTML and CSS.
 
-In this project my goal was to improve my web design skills by cloning the design below.
+In this project, my goal was to improve my web design skills by cloning the design below.
 While cloning the design, i added some extra features like Swiper JS.
 
 You can see the finished state at http://foodyproject.orgfree.com/.
